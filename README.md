@@ -1,4 +1,4 @@
-<h1 align="center">Lex Mejia Cardona (QA ENGINNERING JUNIOR)👁️</h1>
+<h1 align="center">Lex Mejia Cardona (QUALITY AASURANCE ENGINNERING JUNIOR)👁️</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
