@@ -1,48 +1,47 @@
-![QA Manual Testing](assets/banner.png)
+<!-- BANNER PRINCIPAL -->
+<img src="assets/banner.png" alt="QA Engineer Banner" width="100%" />
 
 # 🧪 QA Manual Testing Portfolio
 
-![Testing](https://img.shields.io/badge/Testing-Manual-blue)
-![QA](https://img.shields.io/badge/Role-QA%20Engineer%20Junior-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-QA%20Engineer%20Junior-blue" />
+  <img src="https://img.shields.io/badge/Testing-Manual-success" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+</p>
 
 ---
 
-## 📌 Project Overview
-This project demonstrates my skills as a **QA Engineer Junior** performing
-manual testing on a web application, focusing on functional validation,
-error handling, and quality assurance processes.
+## 👋 About the Project
+This repository showcases my skills as a **QA Engineer Junior**, focused on
+manual testing of web applications, ensuring functionality, usability,
+and quality standards.
 
 ---
 
 ## 🎯 Testing Scope
 - Functional testing  
 - Exploratory testing  
-- Positive & negative scenarios  
-- Bug reporting and documentation  
-
----
-
-## 🛠️ Tools & Artifacts
-- Test cases (Excel)
-- Bug reports (Markdown)
-- Test plan documentation
-- Evidence screenshots
+- Positive and negative scenarios  
+- Bug reporting with evidence  
 
 ---
 
 ## 🧾 Test Cases Example
-![Test Cases](assets/test-cases.png)
+<p align="center">
+  <img src="assets/test-cases.png" alt="Test Cases Example" width="85%" />
+</p>
 
 ---
 
 ## 🐞 Bug Report Example
-![Bug Report](assets/bug-report.png)
+<p align="center">
+  <img src="assets/bug-report.png" alt="Bug Report Example" width="85%" />
+</p>
 
 ---
 
-## 📊 Results & Findings
-Several defects related to input validation and UI behavior were identified
+## 📊 Results
+Multiple issues related to input validation and UI behavior were identified
 and documented following QA best practices.
 
 ---
