@@ -65,8 +65,9 @@ to reliable software products.
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/TU-LINKEDIN
-- 📧 Email: lexmejia@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/
+lexmejia1890
+- 📧 Email: lexmejiacardona@gmail.com
 
 ---
 
