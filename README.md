@@ -1,24 +1,54 @@
-# QA Manual Testing Project
+![QA Manual Testing](assets/banner.png)
 
-## 📌 Contexto
-Este proyecto tiene como objetivo validar el funcionamiento de una aplicación web
-mediante pruebas manuales, asegurando que los requerimientos se cumplan correctamente.
+# 🧪 QA Manual Testing Portfolio
 
-## 🧠 Alcance de las pruebas
-- Pruebas funcionales
-- Pruebas exploratorias
-- Escenarios positivos y negativos
-- Reporte de defectos
+![Testing](https://img.shields.io/badge/Testing-Manual-blue)
+![QA](https://img.shields.io/badge/Role-QA%20Engineer%20Junior-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## 🛠️ Herramientas utilizadas
-- Casos de prueba en Excel
-- GitHub para control de versiones
-- Navegador web (Chrome)
+---
 
-## 📊 Resultados
-Se identificaron defectos relacionados con validaciones de formularios y mensajes de error,
-los cuales fueron documentados siguiendo buenas prácticas de QA.
+## 📌 Project Overview
+This project demonstrates my skills as a **QA Engineer Junior** performing
+manual testing on a web application, focusing on functional validation,
+error handling, and quality assurance processes.
 
-## 👤 Autor
-Lex Enrique Mejía Cardona – QA Engineer Junior
+---
+
+## 🎯 Testing Scope
+- Functional testing  
+- Exploratory testing  
+- Positive & negative scenarios  
+- Bug reporting and documentation  
+
+---
+
+## 🛠️ Tools & Artifacts
+- Test cases (Excel)
+- Bug reports (Markdown)
+- Test plan documentation
+- Evidence screenshots
+
+---
+
+## 🧾 Test Cases Example
+![Test Cases](assets/test-cases.png)
+
+---
+
+## 🐞 Bug Report Example
+![Bug Report](assets/bug-report.png)
+
+---
+
+## 📊 Results & Findings
+Several defects related to input validation and UI behavior were identified
+and documented following QA best practices.
+
+---
+
+## 👤 Author
+**Lex Enrique Mejía Cardona**  
+QA Engineer Junior
+
 
